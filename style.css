@@ -1,0 +1,20 @@
+body {
+    font-family: 'Alata', sans-serif;
+    text-align: center;
+    background-image: url("images/Yosemite-1.jpg");
+}
+
+label, input {
+    margin: 8px;
+}
+
+.results-container {
+    margin-top: 10px;
+}
+
+.results {
+    background-color: ivory;
+    border: solid;
+    text-align: left;
+    padding: 0 10px;
+}
